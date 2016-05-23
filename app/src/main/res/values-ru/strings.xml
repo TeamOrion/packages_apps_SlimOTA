@@ -18,27 +18,27 @@
 <resources>
   <!-- App -->
   <string name="app_name">SlimOTA</string>
-  <string name="app_title">System updates</string>
+  <string name="app_title">Обновления системы</string>
   <!-- Categories -->
   <string name="ota_category">OTA</string>
-  <string name="links_category">Links</string>
+  <string name="links_category">Ссылки</string>
   <!-- ROM info -->
-  <string name="latest_version">Latest version: %1$s</string>
-  <string name="unknown">Unknown</string>
-  <string name="system_uptodate">Your system is up to date</string>
+  <string name="latest_version">Последняя версия: %1$s</string>
+  <string name="unknown">Неизвестно</string>
+  <string name="system_uptodate">Ваша система обновлена до последней версии</string>
   <!-- Check update -->
-  <string name="check_update_title">Check update</string>
-  <string name="last_check_summary">Last check: %1$s</string>
-  <string name="last_check_never">Never</string>
-  <string name="check_update_failed">Can\'t check update</string>
-  <string name="no_update_available">No update available</string>
+  <string name="check_update_title">Проверить обновление</string>
+  <string name="last_check_summary">Последняя проверка: %1$s</string>
+  <string name="last_check_never">Не производилось</string>
+  <string name="check_update_failed">Невозможно проверить обновления</string>
+  <string name="no_update_available">Нет доступных обновлений</string>
   <!-- Update interval -->
-  <string name="interval_title">Automatic update interval</string>
-  <string name="autoupdate_enabled">Automatic update is enabled</string>
-  <string name="autoupdate_disabled">Automatic update is disabled</string>
+  <string name="interval_title">Интервал автоматической проверки обновлений</string>
+  <string name="autoupdate_enabled">Автоматическое обновление включено</string>
+  <string name="autoupdate_disabled">Автоматическое обновление отключено</string>
   <!-- Notification -->
-  <string name="notification_title">ROM Update</string>
-  <string name="notification_message">New update available!</string>
+  <string name="notification_title">Обновление прошивки</string>
+  <string name="notification_message">Доступны новые обновления!</string>
   <!-- Dialog -->
-  <string name="dialog_message">Checking for ROM updates, please wait&#8230;</string>
+  <string name="dialog_message">Проверка обновлений, пожалуйста, подождите&#8230;</string>
 </resources>
